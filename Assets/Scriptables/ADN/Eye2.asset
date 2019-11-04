@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e797ed398a9b84b97c793b65790e2e, type: 3}
+  m_Name: Eye2
+  m_EditorClassIdentifier: 
+  Stat: {fileID: 11400000, guid: 906ab930953b03b4cba0c53af526c5c9, type: 2}
+  Description: "Calidad de vis\xF3n"
+  _Mesh: {fileID: 4300000, guid: 4c03bc0401b1ea044b752a234ee70781, type: 3}
+  Blendshape: eye2

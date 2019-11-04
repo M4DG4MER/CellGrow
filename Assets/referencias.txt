@@ -1,0 +1,30 @@
+https://opengameart.org/content/dna-helix-animated
+https://freesound.org/people/xUMR/sounds/478653/
+https://freesound.org/people/InspectorJ/sounds/398701/
+https://freesound.org/people/florianreichelt/sounds/460509/
+https://www.dafont.com/es/android.font?l[]=10&l[]=1
+
+BUG LIST o CHECK LIST
+
+----nubes no dejen ver los limites
+----cuando la celula muere -> mostrar mensaje de muerte
+----no mostrar mensaje de muerte hasta terminar de cargar partida
+---reducir daño de las células
+
+---checkear que las celulas levean correctamente
+--añadir "boca" a las celulas (reducir tamaño de la sangre y localizarla mejor)
+---la carne que sueltan las celulas al morir debe expandirse aleatoriamente
+
+---aumentar la cantidad de comida (en todos los niveles)
+---cambiar efecto de "llamas" a vista superior
+---efectos de ataques mejorar particulas
+
+FIN DEL JUEGO
+
+TELEPORT al llegar a los bordes
+
+////////////
+alas
+comida cambia de color a la celula
+añadir pool de carne
+la sangre al "morir" la celula desaparece al instante 
